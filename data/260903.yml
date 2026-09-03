@@ -1,0 +1,58 @@
+about:
+  description: Command line interface used by all WakaTime text editor plugins
+  license: BSD-3-Clause
+  homepage: https://wakatime.com/plugins
+  head: 5fb9caa
+  archived: false
+  latestVersion: v2.26.0-alpha.2
+  collectedAt: 2026-09-03T04:54:55Z
+timeline:
+  created: 2020-03-04
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 451
+  watcher: 12
+  fork: 89
+  release: 791
+  contributor: 16
+  pullRequest: 121
+  issue: 381
+language:
+  Go: 2771861
+  Shell: 7688
+  Makefile: 4861
+totalLine: 2784410
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 17
+    mergedPR: 17
+    openPR: 3
+    closedIssue: 3
+    openIssue: 2
+    commit: 9
+  last90d:
+    since: 2026-06-05
+    release: 71
+    mergedPR: 79
+    openPR: 3
+    closedIssue: 8
+    openIssue: 4
+    commit: 56
+  last180d:
+    since: 2026-03-07
+    release: 100
+    mergedPR: 233
+    openPR: 3
+    closedIssue: 23
+    openIssue: 4
+    commit: 157
+  last360d:
+    since: 2025-09-08
+    release: 100
+    mergedPR: 255
+    openPR: 3
+    closedIssue: 31
+    openIssue: 4
+    commit: 178
