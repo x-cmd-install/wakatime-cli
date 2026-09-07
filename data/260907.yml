@@ -5,7 +5,7 @@ about:
   head: 5fb9caa
   archived: false
   latestVersion: "v2.26.0-alpha.2"
-  collectedAt: 2026-09-07T06:00:51Z
+  collectedAt: 2026-09-07T18:29:17Z
 timeline:
   created: 2020-03-04
   lastCommit: 2026-08-31
@@ -16,7 +16,7 @@ popularity:
   fork: 90
   release: 791
   contributor: 14
-  pullRequest: 1161
+  pullRequest: 1162
   issue: 382
 language:
   Go: 2771861
@@ -28,7 +28,7 @@ recent:
     since: 2026-08-08
     release: 13
     mergedPR: 11
-    openPR: 5
+    openPR: 4
     closedIssue: 2
     openIssue: 3
     commit: 5
@@ -36,7 +36,7 @@ recent:
     since: 2026-07-09
     release: 26
     mergedPR: 26
-    openPR: 5
+    openPR: 4
     closedIssue: 6
     openIssue: 4
     commit: 17
@@ -44,7 +44,7 @@ recent:
     since: 2026-06-09
     release: 71
     mergedPR: 79
-    openPR: 5
+    openPR: 4
     closedIssue: 7
     openIssue: 4
     commit: 51
@@ -52,7 +52,7 @@ recent:
     since: 2026-03-11
     release: 100
     mergedPR: 233
-    openPR: 5
+    openPR: 4
     closedIssue: 23
     openIssue: 5
     commit: 154
@@ -60,7 +60,7 @@ recent:
     since: 2025-09-12
     release: 100
     mergedPR: 255
-    openPR: 5
+    openPR: 4
     closedIssue: 31
     openIssue: 5
     commit: 178
@@ -68,20 +68,20 @@ recent:
     since: 2024-09-17
     release: 100
     mergedPR: 358
-    openPR: 5
+    openPR: 4
     closedIssue: 47
     openIssue: 8
     commit: 502
 total:
   release: 791
   mergedPR: 1034
-  openPR: 5
+  openPR: 4
   closedIssue: 370
   openIssue: 12
   commit: 1814
 ---
 path: /home/runner/.x-repo/github.com/wakatime/wakatime-cli
-collectedAt: 2026-09-07T06:00:53Z
+collectedAt: 2026-09-07T18:29:18Z
 loc:
   Go:
     code: 85048
@@ -532,7 +532,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:00:53+00:00
+  collectedAt: 2026-09-07T18:29:19+00:00
   platform:
     darwin/arm64:
       name:  wakatime-cli-darwin-arm64.zip
