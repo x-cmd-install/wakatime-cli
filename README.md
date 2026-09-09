@@ -7,7 +7,7 @@ Command line interface used by all WakaTime text editor plugins
 - **Latest release**: `v2.26.0-alpha.2` (2026-08-30)
 - **Last commit**: 2026-08-31
 - **License**: BSD-3-Clause
-- **Stars**: 451 · **Forks**: 90 · **Open issues**: 382 · **Contributors**: 14
+- **Stars**: 451 · **Forks**: 91 · **Open issues**: 382 · **Contributors**: 14
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/wakatime-cli> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:11:20Z._
+_Last regenerated: 2026-09-09T20:34:53Z._
