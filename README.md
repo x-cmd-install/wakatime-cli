@@ -26,12 +26,12 @@ Total: **90,853** lines of code across **835** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.8 / 10**
+Overall score: **3.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/15 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (1/10) — Found 2/15 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 10 | 12 | 1 | 4 | 1 | 10 |
-| last60d | 2026-07-17 | 23 | 26 | 1 | 7 | 2 | 19 |
-| 90d | 2026-06-17 | 63 | 69 | 1 | 10 | 2 | 42 |
-| last180d | 2026-03-19 | 100 | 230 | 1 | 26 | 3 | 159 |
-| 360d | 2025-09-20 | 100 | 260 | 1 | 34 | 3 | 183 |
-| last720d | 2024-09-25 | 100 | 363 | 1 | 50 | 6 | 501 |
+| 30d | 2026-08-17 | 10 | 12 | 1 | 4 | 1 | 10 |
+| last60d | 2026-07-18 | 23 | 26 | 1 | 7 | 2 | 19 |
+| 90d | 2026-06-18 | 60 | 69 | 1 | 10 | 2 | 42 |
+| last180d | 2026-03-20 | 100 | 230 | 1 | 26 | 3 | 159 |
+| 360d | 2025-09-21 | 100 | 260 | 1 | 34 | 3 | 183 |
+| last720d | 2024-09-26 | 100 | 361 | 1 | 49 | 6 | 501 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:27:26Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:37:01Z._

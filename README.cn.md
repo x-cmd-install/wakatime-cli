@@ -26,12 +26,12 @@ x install wakatime-cli
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.8 / 10**
+总评分: **3.9 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/15 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (1/10) — Found 2/15 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -58,12 +58,12 @@ x install wakatime-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 10 | 12 | 1 | 4 | 1 | 10 |
-| last60d | 2026-07-17 | 23 | 26 | 1 | 7 | 2 | 19 |
-| 90d | 2026-06-17 | 63 | 69 | 1 | 10 | 2 | 42 |
-| last180d | 2026-03-19 | 100 | 230 | 1 | 26 | 3 | 159 |
-| 360d | 2025-09-20 | 100 | 260 | 1 | 34 | 3 | 183 |
-| last720d | 2024-09-25 | 100 | 363 | 1 | 50 | 6 | 501 |
+| 30d | 2026-08-17 | 10 | 12 | 1 | 4 | 1 | 10 |
+| last60d | 2026-07-18 | 23 | 26 | 1 | 7 | 2 | 19 |
+| 90d | 2026-06-18 | 60 | 69 | 1 | 10 | 2 | 42 |
+| last180d | 2026-03-20 | 100 | 230 | 1 | 26 | 3 | 159 |
+| 360d | 2025-09-21 | 100 | 260 | 1 | 34 | 3 | 183 |
+| last720d | 2024-09-26 | 100 | 361 | 1 | 49 | 6 | 501 |
 
 ## Release 资产
 
@@ -102,4 +102,4 @@ wakatime-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T06:27:27Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T06:37:02Z._
