@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2079,
       "digest": "sha256:83d1fd0c8619979f45452056df83e001bd686704601191b4337e2f6e51783cba",
-      "download_count": 30,
+      "download_count": 31,
       "created_at": "2026-09-14T10:16:28Z",
       "updated_at": "2026-09-14T10:16:28Z",
       "browser_download_url": "https://github.com/wakatime/wakatime-cli/releases/download/v2.26.2/checksums_sha256.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8041844,
       "digest": "sha256:3e028fc33c234ff0008560e9e67a1442673fc6ed5d8bc55a99db1fb71e67c865",
-      "download_count": 6,
+      "download_count": 9,
       "created_at": "2026-09-14T10:16:28Z",
       "updated_at": "2026-09-14T10:16:29Z",
       "browser_download_url": "https://github.com/wakatime/wakatime-cli/releases/download/v2.26.2/wakatime-cli-android-arm.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7753253,
       "digest": "sha256:0a21f357cd3fd834f35dd26e087212ffac08ecb87031c550b7637b4f95306ba5",
-      "download_count": 216,
+      "download_count": 325,
       "created_at": "2026-09-14T10:16:28Z",
       "updated_at": "2026-09-14T10:16:29Z",
       "browser_download_url": "https://github.com/wakatime/wakatime-cli/releases/download/v2.26.2/wakatime-cli-android-arm64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 8337395,
       "digest": "sha256:e553115e4e3cef8a52c3a30164187552f45a5017f7e9d11646ee42853dea7c65",
-      "download_count": 2045,
+      "download_count": 2733,
       "created_at": "2026-09-14T10:16:28Z",
       "updated_at": "2026-09-14T10:16:29Z",
       "browser_download_url": "https://github.com/wakatime/wakatime-cli/releases/download/v2.26.2/wakatime-cli-darwin-amd64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7566125,
       "digest": "sha256:fabbc3d015661b4e9e8f2565d3b696ef526af738753f445039c87402a68ac2e9",
-      "download_count": 24778,
+      "download_count": 33887,
       "created_at": "2026-09-14T10:16:28Z",
       "updated_at": "2026-09-14T10:16:29Z",
       "browser_download_url": "https://github.com/wakatime/wakatime-cli/releases/download/v2.26.2/wakatime-cli-darwin-arm64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 8002133,
       "digest": "sha256:14d702bc07e7b910f87e174505a70e5d0160002124e8f7c0e358d6099f7ed67e",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-14T10:16:28Z",
       "updated_at": "2026-09-14T10:16:29Z",
       "browser_download_url": "https://github.com/wakatime/wakatime-cli/releases/download/v2.26.2/wakatime-cli-freebsd-amd64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 8058788,
       "digest": "sha256:e7765e362146e560aa09f2810808faabcfc8b9de12bd95fb66680d8e49d14dfa",
-      "download_count": 14523,
+      "download_count": 19750,
       "created_at": "2026-09-14T10:16:28Z",
       "updated_at": "2026-09-14T10:16:29Z",
       "browser_download_url": "https://github.com/wakatime/wakatime-cli/releases/download/v2.26.2/wakatime-cli-linux-amd64.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 7411049,
       "digest": "sha256:1a8eb5c4918c0eaf3aa847b83d4068ac0e966d7d9c43a700e47b0e9dce7c541b",
-      "download_count": 216,
+      "download_count": 279,
       "created_at": "2026-09-14T10:16:28Z",
       "updated_at": "2026-09-14T10:16:29Z",
       "browser_download_url": "https://github.com/wakatime/wakatime-cli/releases/download/v2.26.2/wakatime-cli-linux-arm64.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 7966521,
       "digest": "sha256:fe80e789c0933021b833ef6fb16476c47f059079df0040c928df011df1039561",
-      "download_count": 48,
+      "download_count": 63,
       "created_at": "2026-09-14T10:16:28Z",
       "updated_at": "2026-09-14T10:16:29Z",
       "browser_download_url": "https://github.com/wakatime/wakatime-cli/releases/download/v2.26.2/wakatime-cli-windows-386.zip"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 8225718,
       "digest": "sha256:20951e7eeb9528abfb9cde35ca98e8a6c32affce8cd7090c2fbab559581cc0df",
-      "download_count": 30532,
+      "download_count": 42123,
       "created_at": "2026-09-14T10:16:28Z",
       "updated_at": "2026-09-14T10:16:29Z",
       "browser_download_url": "https://github.com/wakatime/wakatime-cli/releases/download/v2.26.2/wakatime-cli-windows-amd64.zip"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 7476052,
       "digest": "sha256:5b0f29b6d814280b2ddcf611f4ec65b6978a6ce1417c2d02e370c8bc5440c5f7",
-      "download_count": 109,
+      "download_count": 149,
       "created_at": "2026-09-14T10:16:28Z",
       "updated_at": "2026-09-14T10:16:29Z",
       "browser_download_url": "https://github.com/wakatime/wakatime-cli/releases/download/v2.26.2/wakatime-cli-windows-arm64.zip"
