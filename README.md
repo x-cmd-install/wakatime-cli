@@ -14,11 +14,11 @@ x install wakatime-cli
 
 ## Code insight
 
-Total: **94,905** lines of code across **851** files in the top 5 languages.
+Total: **95,486** lines of code across **855** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 89,123 | 4,149 | 18,917 | 744 |
+| Go | 89,704 | 4,164 | 19,003 | 748 |
 | Json | 2,343 | 0 | 0 | 88 |
 | Python | 1,096 | 18 | 37 | 14 |
 | Makefile | 951 | 165 | 193 | 2 |
@@ -42,56 +42,56 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.26.6` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Latest**: `v2.26.7` (2026-09-24)
+- **Last commit**: 2026-09-24
 - **Assets in release**: 23
 
 ## Popularity
 
-- **Stars**: 453 · **Forks**: 89 · **Open issues**: 387 · **Contributors**: 16
+- **Stars**: 455 · **Forks**: 89 · **Open issues**: 389 · **Contributors**: 16
 
 ## Totals (cumulative)
 
-- **Releases**: 802 · **Merged PRs**: 1048 · **Open PRs**: 1 · **Closed issues**: 376 · **Open issues**: 11 · **Commits**: 1835
+- **Releases**: 805 · **Merged PRs**: 1051 · **Open PRs**: 1 · **Closed issues**: 376 · **Open issues**: 13 · **Commits**: 1839
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 18 | 21 | 1 | 7 | 2 | 13 |
-| last60d | 2026-07-26 | 30 | 33 | 1 | 9 | 3 | 22 |
-| 90d | 2026-06-26 | 44 | 48 | 1 | 13 | 3 | 34 |
-| last180d | 2026-03-28 | 100 | 235 | 1 | 28 | 4 | 154 |
-| 360d | 2025-09-29 | 100 | 269 | 1 | 37 | 4 | 189 |
-| last720d | 2024-10-04 | 100 | 370 | 1 | 52 | 7 | 511 |
+| 30d | 2026-08-26 | 21 | 24 | 1 | 7 | 4 | 15 |
+| last60d | 2026-07-27 | 33 | 34 | 1 | 9 | 5 | 24 |
+| 90d | 2026-06-27 | 47 | 51 | 1 | 13 | 5 | 36 |
+| last180d | 2026-03-29 | 100 | 230 | 1 | 27 | 6 | 156 |
+| 360d | 2025-09-30 | 100 | 272 | 1 | 37 | 6 | 191 |
+| last720d | 2024-10-05 | 100 | 373 | 1 | 52 | 9 | 515 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums_sha256.txt](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/checksums_sha256.txt) | 2.0 KiB | `other` |
-| [wakatime-cli-android-arm.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-android-arm.zip) | 7.7 MiB | `other` |
-| [wakatime-cli-android-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-android-arm64.zip) | 7.5 MiB | `other` |
-| [wakatime-cli-darwin-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-darwin-amd64.zip) | 8.0 MiB | `native/darwin/x64` |
-| [wakatime-cli-darwin-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-darwin-arm64.zip) | 7.3 MiB | `native/darwin/arm64` |
-| [wakatime-cli-freebsd-386.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-freebsd-386.zip) | 5.7 MiB | `other` |
-| [wakatime-cli-freebsd-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-freebsd-amd64.zip) | 7.7 MiB | `other` |
-| [wakatime-cli-freebsd-arm.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-freebsd-arm.zip) | 5.6 MiB | `other` |
-| [wakatime-cli-linux-386.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-linux-386.zip) | 7.4 MiB | `other` |
-| [wakatime-cli-linux-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-linux-amd64.zip) | 7.8 MiB | `native/linux/x64` |
-| [wakatime-cli-linux-arm.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-linux-arm.zip) | 7.4 MiB | `native/linux/arm` |
-| [wakatime-cli-linux-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-linux-arm64.zip) | 7.1 MiB | `native/linux/arm64` |
-| [wakatime-cli-linux-riscv64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-linux-riscv64.zip) | 7.3 MiB | `native/linux/riscv64` |
-| [wakatime-cli-netbsd-386.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-netbsd-386.zip) | 5.7 MiB | `other` |
-| [wakatime-cli-netbsd-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-netbsd-amd64.zip) | 5.9 MiB | `other` |
-| [wakatime-cli-netbsd-arm.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-netbsd-arm.zip) | 5.6 MiB | `other` |
-| [wakatime-cli-openbsd-386.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-openbsd-386.zip) | 5.7 MiB | `other` |
-| [wakatime-cli-openbsd-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-openbsd-amd64.zip) | 7.7 MiB | `other` |
-| [wakatime-cli-openbsd-arm.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-openbsd-arm.zip) | 5.6 MiB | `other` |
-| [wakatime-cli-openbsd-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-openbsd-arm64.zip) | 7.1 MiB | `other` |
-| [wakatime-cli-windows-386.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-windows-386.zip) | 7.7 MiB | `native/win/x64` |
-| [wakatime-cli-windows-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-windows-amd64.zip) | 7.9 MiB | `native/win/x64` |
-| [wakatime-cli-windows-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.6/wakatime-cli-windows-arm64.zip) | 7.2 MiB | `native/win/arm64` |
+| [checksums_sha256.txt](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/checksums_sha256.txt) | 2.0 KiB | `other` |
+| [wakatime-cli-android-arm.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-android-arm.zip) | 7.7 MiB | `other` |
+| [wakatime-cli-android-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-android-arm64.zip) | 7.5 MiB | `other` |
+| [wakatime-cli-darwin-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-darwin-amd64.zip) | 8.0 MiB | `native/darwin/x64` |
+| [wakatime-cli-darwin-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-darwin-arm64.zip) | 7.3 MiB | `native/darwin/arm64` |
+| [wakatime-cli-freebsd-386.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-freebsd-386.zip) | 5.7 MiB | `other` |
+| [wakatime-cli-freebsd-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-freebsd-amd64.zip) | 7.7 MiB | `other` |
+| [wakatime-cli-freebsd-arm.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-freebsd-arm.zip) | 5.6 MiB | `other` |
+| [wakatime-cli-linux-386.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-linux-386.zip) | 7.4 MiB | `other` |
+| [wakatime-cli-linux-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-linux-amd64.zip) | 7.8 MiB | `native/linux/x64` |
+| [wakatime-cli-linux-arm.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-linux-arm.zip) | 7.4 MiB | `native/linux/arm` |
+| [wakatime-cli-linux-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-linux-arm64.zip) | 7.1 MiB | `native/linux/arm64` |
+| [wakatime-cli-linux-riscv64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-linux-riscv64.zip) | 7.3 MiB | `native/linux/riscv64` |
+| [wakatime-cli-netbsd-386.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-netbsd-386.zip) | 5.7 MiB | `other` |
+| [wakatime-cli-netbsd-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-netbsd-amd64.zip) | 5.9 MiB | `other` |
+| [wakatime-cli-netbsd-arm.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-netbsd-arm.zip) | 5.6 MiB | `other` |
+| [wakatime-cli-openbsd-386.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-openbsd-386.zip) | 5.7 MiB | `other` |
+| [wakatime-cli-openbsd-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-openbsd-amd64.zip) | 7.7 MiB | `other` |
+| [wakatime-cli-openbsd-arm.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-openbsd-arm.zip) | 5.6 MiB | `other` |
+| [wakatime-cli-openbsd-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-openbsd-arm64.zip) | 7.1 MiB | `other` |
+| [wakatime-cli-windows-386.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-windows-386.zip) | 7.7 MiB | `native/win/x64` |
+| [wakatime-cli-windows-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-windows-amd64.zip) | 7.9 MiB | `native/win/x64` |
+| [wakatime-cli-windows-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.26.7/wakatime-cli-windows-arm64.zip) | 7.2 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -102,4 +102,4 @@ Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:51:12Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:59:19Z._
