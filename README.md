@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 27 | 31 | 0 | 12 | 0 | 19 |
-| last60d | 2026-07-29 | 41 | 45 | 0 | 14 | 0 | 32 |
-| 90d | 2026-06-29 | 57 | 59 | 0 | 18 | 1 | 40 |
-| last180d | 2026-03-31 | 100 | 237 | 0 | 32 | 2 | 147 |
-| 360d | 2025-10-02 | 100 | 283 | 0 | 42 | 2 | 199 |
-| last720d | 2024-10-07 | 100 | 384 | 0 | 57 | 5 | 531 |
+| 30d | 2026-08-29 | 27 | 31 | 0 | 12 | 0 | 19 |
+| last60d | 2026-07-30 | 41 | 45 | 0 | 14 | 0 | 32 |
+| 90d | 2026-06-30 | 54 | 56 | 0 | 18 | 1 | 40 |
+| last180d | 2026-04-01 | 100 | 223 | 0 | 32 | 2 | 147 |
+| 360d | 2025-10-03 | 100 | 283 | 0 | 42 | 2 | 199 |
+| last720d | 2024-10-08 | 100 | 383 | 0 | 57 | 5 | 531 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T06:21:50Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T06:34:03Z._
