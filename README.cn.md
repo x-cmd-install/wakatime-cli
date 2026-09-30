@@ -26,13 +26,13 @@ x install wakatime-cli
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.9 / 10**
+总评分: **3.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 2/15 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 1/15 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install wakatime-cli
 
 ## 流行度
 
-- **Star**: 455 · **Fork**: 90 · **开放 issue**: 391 · **贡献者**: 17
+- **Star**: 457 · **Fork**: 89 · **开放 issue**: 392 · **贡献者**: 17
 
 ## 累计统计
 
-- **发布数**: 817 · **已合并 PR**: 1065 · **开放 PR**: 0 · **已关闭 issue**: 382 · **开放 issue**: 9 · **提交数**: 1860
+- **发布数**: 817 · **已合并 PR**: 1065 · **开放 PR**: 1 · **已关闭 issue**: 383 · **开放 issue**: 9 · **提交数**: 1860
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 29 | 32 | 0 | 12 | 0 | 22 |
-| last60d | 2026-07-31 | 43 | 48 | 0 | 15 | 0 | 35 |
-| 90d | 2026-07-01 | 53 | 59 | 0 | 18 | 1 | 43 |
-| last180d | 2026-04-02 | 100 | 220 | 0 | 33 | 2 | 150 |
-| 360d | 2025-10-04 | 100 | 286 | 0 | 43 | 2 | 202 |
-| last720d | 2024-10-09 | 100 | 386 | 0 | 58 | 5 | 534 |
+| 30d | 2026-08-31 | 27 | 31 | 1 | 13 | 0 | 22 |
+| last60d | 2026-08-01 | 43 | 48 | 1 | 16 | 0 | 35 |
+| 90d | 2026-07-02 | 53 | 59 | 1 | 19 | 1 | 43 |
+| last180d | 2026-04-03 | 100 | 218 | 1 | 34 | 2 | 150 |
+| 360d | 2025-10-05 | 100 | 286 | 1 | 44 | 2 | 202 |
+| last720d | 2024-10-10 | 100 | 386 | 1 | 59 | 5 | 534 |
 
 ## Release 资产
 
@@ -102,4 +102,4 @@ wakatime-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260929.yml` · 2026-09-29T06:51:41Z._
+_数据快照: `data/card/260930.yml` · 2026-09-30T06:39:33Z._
