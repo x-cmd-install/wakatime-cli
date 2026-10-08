@@ -14,11 +14,11 @@ x install wakatime-cli
 
 ## 代码洞察
 
-合计: **96,954** 行代码（覆盖前 5 种语言、共 **858** 个文件）。
+合计: **96,973** 行代码（覆盖前 5 种语言、共 **858** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 91,172 | 4,311 | 19,376 | 751 |
+| Go | 91,191 | 4,311 | 19,384 | 751 |
 | Json | 2,343 | 0 | 0 | 88 |
 | Python | 1,096 | 18 | 37 | 14 |
 | Makefile | 951 | 165 | 193 | 2 |
@@ -26,13 +26,13 @@ x install wakatime-cli
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.8 / 10**
+总评分: **3.9 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/15 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (1/10) — Found 2/15 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -42,8 +42,8 @@ x install wakatime-cli
 
 ## 发布
 
-- **最新版本**: `v2.26.15` (2026-10-05)
-- **最近提交**: 2026-10-05
+- **最新版本**: `v2.26.16-alpha.1` (2026-10-05)
+- **最近提交**: 2026-10-07
 - **Release 含资产**: 23 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install wakatime-cli
 
 ## 累计统计
 
-- **发布数**: 819 · **已合并 PR**: 1069 · **开放 PR**: 2 · **已关闭 issue**: 389 · **开放 issue**: 12 · **提交数**: 1866
+- **发布数**: 820 · **已合并 PR**: 1070 · **开放 PR**: 2 · **已关闭 issue**: 389 · **开放 issue**: 12 · **提交数**: 1868
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 28 | 33 | 2 | 17 | 3 | 25 |
-| last60d | 2026-08-08 | 41 | 46 | 2 | 21 | 3 | 32 |
-| 90d | 2026-07-09 | 54 | 61 | 2 | 25 | 4 | 44 |
-| last180d | 2026-04-10 | 100 | 220 | 2 | 38 | 5 | 148 |
-| 360d | 2025-10-12 | 100 | 290 | 2 | 50 | 5 | 205 |
-| last720d | 2024-10-17 | 100 | 390 | 2 | 65 | 8 | 540 |
+| 30d | 2026-09-08 | 29 | 34 | 2 | 17 | 3 | 26 |
+| last60d | 2026-08-09 | 41 | 43 | 2 | 20 | 3 | 33 |
+| 90d | 2026-07-10 | 54 | 61 | 2 | 24 | 4 | 45 |
+| last180d | 2026-04-11 | 100 | 217 | 2 | 38 | 5 | 149 |
+| 360d | 2025-10-13 | 100 | 291 | 2 | 50 | 5 | 206 |
+| last720d | 2024-10-18 | 100 | 391 | 2 | 65 | 8 | 542 |
 
 ## Release 资产
 
@@ -102,4 +102,4 @@ wakatime-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T07:09:41Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T07:11:01Z._

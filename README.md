@@ -14,11 +14,11 @@ x install wakatime-cli
 
 ## Code insight
 
-Total: **96,954** lines of code across **858** files in the top 5 languages.
+Total: **96,973** lines of code across **858** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 91,172 | 4,311 | 19,376 | 751 |
+| Go | 91,191 | 4,311 | 19,384 | 751 |
 | Json | 2,343 | 0 | 0 | 88 |
 | Python | 1,096 | 18 | 37 | 14 |
 | Makefile | 951 | 165 | 193 | 2 |
@@ -26,13 +26,13 @@ Total: **96,954** lines of code across **858** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.8 / 10**
+Overall score: **3.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/15 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (1/10) — Found 2/15 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -42,8 +42,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.26.15` (2026-10-05)
-- **Last commit**: 2026-10-05
+- **Latest**: `v2.26.16-alpha.1` (2026-10-05)
+- **Last commit**: 2026-10-07
 - **Assets in release**: 23
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 819 · **Merged PRs**: 1069 · **Open PRs**: 2 · **Closed issues**: 389 · **Open issues**: 12 · **Commits**: 1866
+- **Releases**: 820 · **Merged PRs**: 1070 · **Open PRs**: 2 · **Closed issues**: 389 · **Open issues**: 12 · **Commits**: 1868
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 28 | 33 | 2 | 17 | 3 | 25 |
-| last60d | 2026-08-08 | 41 | 46 | 2 | 21 | 3 | 32 |
-| 90d | 2026-07-09 | 54 | 61 | 2 | 25 | 4 | 44 |
-| last180d | 2026-04-10 | 100 | 220 | 2 | 38 | 5 | 148 |
-| 360d | 2025-10-12 | 100 | 290 | 2 | 50 | 5 | 205 |
-| last720d | 2024-10-17 | 100 | 390 | 2 | 65 | 8 | 540 |
+| 30d | 2026-09-08 | 29 | 34 | 2 | 17 | 3 | 26 |
+| last60d | 2026-08-09 | 41 | 43 | 2 | 20 | 3 | 33 |
+| 90d | 2026-07-10 | 54 | 61 | 2 | 24 | 4 | 45 |
+| last180d | 2026-04-11 | 100 | 217 | 2 | 38 | 5 | 149 |
+| 360d | 2025-10-13 | 100 | 291 | 2 | 50 | 5 | 206 |
+| last720d | 2024-10-18 | 100 | 391 | 2 | 65 | 8 | 542 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:09:39Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:10:59Z._
