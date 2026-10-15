@@ -26,12 +26,12 @@ Total: **97,518** lines of code across **858** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.9 / 10**
+Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 2/15 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 7/15 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 463 · **Forks**: 92 · **Open issues**: 403 · **Contributors**: 18
+- **Stars**: 464 · **Forks**: 92 · **Open issues**: 403 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 832 · **Merged PRs**: 1084 · **Open PRs**: 2 · **Closed issues**: 391 · **Open issues**: 12 · **Commits**: 1889
+- **Releases**: 832 · **Merged PRs**: 1084 · **Open PRs**: 3 · **Closed issues**: 391 · **Open issues**: 12 · **Commits**: 1889
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 41 | 45 | 2 | 17 | 4 | 34 |
-| last60d | 2026-08-15 | 48 | 57 | 2 | 21 | 4 | 44 |
-| 90d | 2026-07-16 | 62 | 71 | 2 | 26 | 4 | 53 |
-| last180d | 2026-04-17 | 100 | 213 | 2 | 40 | 5 | 141 |
-| 360d | 2025-10-19 | 100 | 305 | 2 | 52 | 5 | 217 |
-| last720d | 2024-10-24 | 100 | 405 | 2 | 65 | 8 | 563 |
+| 30d | 2026-09-15 | 38 | 45 | 3 | 17 | 4 | 34 |
+| last60d | 2026-08-16 | 48 | 57 | 3 | 21 | 4 | 44 |
+| 90d | 2026-07-17 | 61 | 71 | 3 | 25 | 4 | 53 |
+| last180d | 2026-04-18 | 100 | 213 | 3 | 40 | 5 | 141 |
+| 360d | 2025-10-20 | 100 | 305 | 3 | 52 | 5 | 217 |
+| last720d | 2024-10-25 | 100 | 403 | 3 | 64 | 8 | 563 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:04:59Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:41:40Z._
