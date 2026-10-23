@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 43 | 51 | 3 | 17 | 4 | 47 |
-| last60d | 2026-08-23 | 59 | 69 | 3 | 25 | 4 | 65 |
-| 90d | 2026-07-24 | 72 | 83 | 3 | 28 | 4 | 72 |
-| last180d | 2026-04-25 | 100 | 207 | 3 | 41 | 5 | 154 |
-| 360d | 2025-10-27 | 100 | 317 | 3 | 55 | 5 | 238 |
-| last720d | 2024-11-01 | 100 | 411 | 3 | 68 | 8 | 590 |
+| 30d | 2026-09-23 | 43 | 48 | 3 | 17 | 4 | 47 |
+| last60d | 2026-08-24 | 59 | 69 | 3 | 25 | 4 | 65 |
+| 90d | 2026-07-25 | 72 | 81 | 3 | 28 | 4 | 72 |
+| last180d | 2026-04-26 | 100 | 202 | 3 | 41 | 5 | 154 |
+| 360d | 2025-10-28 | 100 | 317 | 3 | 55 | 5 | 238 |
+| last720d | 2024-11-02 | 100 | 411 | 3 | 68 | 8 | 590 |
 
 ## Release assets
 
@@ -93,6 +93,15 @@ Lowest-scoring checks:
 | [wakatime-cli-windows-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.27.13/wakatime-cli-windows-amd64.zip) | 8.2 MiB | `native/win/x64` |
 | [wakatime-cli-windows-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.27.13/wakatime-cli-windows-arm64.zip) | 7.5 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **18** distros on [repology.org](https://repology.org/project/wakatime-cli). **7** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.27.13` | ✅ latest |
+| Nix unstable | `2.26.15` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wakatime-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -102,4 +111,4 @@ Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:46:18Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:53:03Z._
