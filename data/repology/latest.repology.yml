@@ -1,27 +1,10 @@
-- repo: liguros_develop
-  srcname: dev-util/wakatime-cli
-  visiblename: dev-util/wakatime-cli
-  version: 1.28.6
-  origversion: null
-  status: outdated
-  summary: Command line interface to WakaTime used by all WakaTime plugins
-  maintainers:
-    - ezzieyguywuf@gmail.com
-  licenses:
-    - BSD
-    - MIT
-    - MPL-2.0
-    - BSD-2
-    - Apache-2.0
-  categories:
-    - dev-util
 - repo: aur
   srcname: wakatime
   binname: wakatime
   visiblename: wakatime
   version: 2.27.13
   origversion: 2.27.13-1
-  status: newest
+  status: outdated
   summary: Command line interface used by all WakaTime text editor plugins
   maintainers:
     - glucy2@aur
@@ -64,7 +47,7 @@
 - repo: homebrew
   srcname: wakatime-cli
   visiblename: wakatime-cli
-  version: 2.27.13
+  version: 2.28.0
   origversion: null
   status: newest
   summary: Command-line interface to the WakaTime api
@@ -119,13 +102,30 @@
     - Apache-2.0
   categories:
     - dev-util
+- repo: liguros_develop
+  srcname: dev-util/wakatime-cli
+  visiblename: dev-util/wakatime-cli
+  version: 1.28.6
+  origversion: null
+  status: outdated
+  summary: Command line interface to WakaTime used by all WakaTime plugins
+  maintainers:
+    - ezzieyguywuf@gmail.com
+  licenses:
+    - BSD
+    - MIT
+    - MPL-2.0
+    - BSD-2
+    - Apache-2.0
+  categories:
+    - dev-util
 - repo: msys2_clang64
   srcname: mingw-w64-wakatime
   binname: mingw-w64-clang-x86_64-wakatime
   visiblename: mingw-w64-clang-x86_64-wakatime
   version: 2.27.13
   origversion: 2.27.13-1
-  status: newest
+  status: outdated
   summary: Command line interface used by all WakaTime text editor plugins (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -135,7 +135,7 @@
   visiblename: mingw-w64-clang-aarch64-wakatime
   version: 2.27.13
   origversion: 2.27.13-1
-  status: newest
+  status: outdated
   summary: Command line interface used by all WakaTime text editor plugins (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -145,7 +145,7 @@
   visiblename: mingw-w64-ucrt-x86_64-wakatime
   version: 2.27.13
   origversion: 2.27.13-1
-  status: newest
+  status: outdated
   summary: Command line interface used by all WakaTime text editor plugins (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -208,7 +208,7 @@
   subrepo: main
   binname: wakatime-cli
   visiblename: wakatime-cli
-  version: 2.27.13
+  version: 2.28.0
   origversion: null
   status: newest
   licenses:
@@ -217,7 +217,7 @@
   srcname: wakatime-cli
   binname: wakatime-cli
   visiblename: wakatime-cli
-  version: 2.27.13
+  version: 2.28.0
   origversion: null
   status: newest
   summary: Command line interface used by all WakaTime text editor plugins
