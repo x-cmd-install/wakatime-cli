@@ -1,10 +1,19 @@
+- repo: scoop
+  subrepo: main
+  binname: wakatime-cli
+  visiblename: wakatime-cli
+  version: 2.28.0
+  origversion: null
+  status: newest
+  licenses:
+    - BSD-3-Clause
 - repo: aur
   srcname: wakatime
   binname: wakatime
   visiblename: wakatime
-  version: 2.27.13
-  origversion: 2.27.13-1
-  status: outdated
+  version: 2.28.0
+  origversion: 2.28.0-1
+  status: newest
   summary: Command line interface used by all WakaTime text editor plugins
   maintainers:
     - glucy2@aur
@@ -202,15 +211,6 @@
   summary: WakaTime command line interface
   maintainers:
     - sigmanificient@gmail.com
-  licenses:
-    - BSD-3-Clause
-- repo: scoop
-  subrepo: main
-  binname: wakatime-cli
-  visiblename: wakatime-cli
-  version: 2.28.0
-  origversion: null
-  status: newest
   licenses:
     - BSD-3-Clause
 - repo: termux
