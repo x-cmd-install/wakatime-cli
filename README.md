@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 41 | 41 | 4 | 15 | 4 | 38 |
-| last60d | 2026-08-26 | 62 | 72 | 4 | 26 | 4 | 62 |
-| 90d | 2026-07-27 | 74 | 82 | 4 | 29 | 4 | 73 |
-| last180d | 2026-04-28 | 100 | 202 | 4 | 40 | 5 | 142 |
-| 360d | 2025-10-30 | 100 | 320 | 4 | 56 | 5 | 240 |
-| last720d | 2024-11-04 | 100 | 414 | 4 | 69 | 8 | 594 |
+| 30d | 2026-09-26 | 34 | 37 | 4 | 14 | 4 | 38 |
+| last60d | 2026-08-27 | 62 | 68 | 4 | 26 | 4 | 62 |
+| 90d | 2026-07-28 | 72 | 82 | 4 | 28 | 4 | 73 |
+| last180d | 2026-04-29 | 100 | 202 | 4 | 39 | 5 | 142 |
+| 360d | 2025-10-31 | 100 | 320 | 4 | 56 | 5 | 240 |
+| last720d | 2024-11-05 | 100 | 414 | 4 | 69 | 8 | 594 |
 
 ## Release assets
 
@@ -95,7 +95,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/wakatime-cli). **4** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/wakatime-cli). **7** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -111,4 +111,4 @@ Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:48:49Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:48:41Z._
