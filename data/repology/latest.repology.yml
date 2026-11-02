@@ -1,7 +1,7 @@
-- repo: nix_stable_25_11
+- repo: nix_stable_25_05
   srcname: wakatime-cli
   visiblename: wakatime-cli
-  version: 1.130.1
+  version: 1.115.2
   origversion: null
   status: outdated
   summary: WakaTime command line interface
@@ -130,6 +130,28 @@
     - Apache-2.0
   categories:
     - dev-util
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: wakatime
+  binname: wakatime
+  visiblename: wakatime
+  version: 1.60.4
+  origversion: 1:1.60.4-1
+  status: outdated
+  summary: Command line interface used by all WakaTime text editor plugins
+  licenses:
+    - BSD
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: wakatime
+  binname: wakatime
+  visiblename: wakatime
+  version: 1.60.4
+  origversion: 1:1.60.4-1
+  status: outdated
+  summary: Command line interface used by all WakaTime text editor plugins
+  licenses:
+    - BSD
 - repo: msys2_clang64
   srcname: mingw-w64-wakatime
   binname: mingw-w64-clang-x86_64-wakatime
@@ -171,10 +193,10 @@
     - sigmanificient@gmail.com
   licenses:
     - BSD-3-Clause
-- repo: nix_stable_25_05
+- repo: nix_stable_25_11
   srcname: wakatime-cli
   visiblename: wakatime-cli
-  version: 1.115.2
+  version: 1.130.1
   origversion: null
   status: outdated
   summary: WakaTime command line interface
