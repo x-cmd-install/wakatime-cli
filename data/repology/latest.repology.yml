@@ -1,21 +1,10 @@
-- repo: nix_stable_25_05
-  srcname: wakatime-cli
-  visiblename: wakatime-cli
-  version: 1.115.2
-  origversion: null
-  status: outdated
-  summary: WakaTime command line interface
-  maintainers:
-    - sigmanificient@gmail.com
-  licenses:
-    - BSD-3-Clause
 - repo: aur
   srcname: wakatime
   binname: wakatime
   visiblename: wakatime
   version: 2.28.0
   origversion: 2.28.0-1
-  status: newest
+  status: outdated
   summary: Command line interface used by all WakaTime text editor plugins
   maintainers:
     - glucy2@aur
@@ -58,7 +47,7 @@
 - repo: homebrew
   srcname: wakatime-cli
   visiblename: wakatime-cli
-  version: 2.28.0
+  version: 2.28.4
   origversion: null
   status: newest
   summary: Command-line interface to the WakaTime api
@@ -158,7 +147,7 @@
   visiblename: mingw-w64-clang-x86_64-wakatime
   version: 2.28.0
   origversion: 2.28.0-1
-  status: newest
+  status: outdated
   summary: Command line interface used by all WakaTime text editor plugins (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -168,7 +157,7 @@
   visiblename: mingw-w64-clang-aarch64-wakatime
   version: 2.28.0
   origversion: 2.28.0-1
-  status: newest
+  status: outdated
   summary: Command line interface used by all WakaTime text editor plugins (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -178,7 +167,7 @@
   visiblename: mingw-w64-ucrt-x86_64-wakatime
   version: 2.28.0
   origversion: 2.28.0-1
-  status: newest
+  status: outdated
   summary: Command line interface used by all WakaTime text editor plugins (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -186,6 +175,17 @@
   srcname: wakatime-cli
   visiblename: wakatime-cli
   version: 1.102.3
+  origversion: null
+  status: outdated
+  summary: WakaTime command line interface
+  maintainers:
+    - sigmanificient@gmail.com
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_25_05
+  srcname: wakatime-cli
+  visiblename: wakatime-cli
+  version: 1.115.2
   origversion: null
   status: outdated
   summary: WakaTime command line interface
@@ -230,7 +230,7 @@
   subrepo: main
   binname: wakatime-cli
   visiblename: wakatime-cli
-  version: 2.28.0
+  version: 2.28.4
   origversion: null
   status: newest
   licenses:
@@ -239,7 +239,7 @@
   srcname: wakatime-cli
   binname: wakatime-cli
   visiblename: wakatime-cli
-  version: 2.28.0
+  version: 2.28.4
   origversion: null
   status: newest
   summary: Command line interface used by all WakaTime text editor plugins
