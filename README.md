@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 465 · **Forks**: 94 · **Open issues**: 410 · **Contributors**: 19
+- **Stars**: 465 · **Forks**: 95 · **Open issues**: 410 · **Contributors**: 19
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 31 | 34 | 2 | 6 | 3 | 36 |
-| last60d | 2026-09-07 | 59 | 69 | 3 | 25 | 4 | 65 |
-| 90d | 2026-08-08 | 72 | 82 | 3 | 29 | 4 | 72 |
-| last180d | 2026-05-10 | 100 | 187 | 3 | 39 | 5 | 143 |
-| 360d | 2025-11-11 | 100 | 326 | 3 | 58 | 5 | 245 |
-| last720d | 2024-11-16 | 100 | 412 | 3 | 71 | 8 | 590 |
+| 30d | 2026-10-08 | 30 | 34 | 2 | 6 | 3 | 36 |
+| last60d | 2026-09-08 | 59 | 69 | 3 | 25 | 4 | 65 |
+| 90d | 2026-08-09 | 71 | 78 | 3 | 28 | 4 | 72 |
+| last180d | 2026-05-11 | 100 | 183 | 3 | 39 | 5 | 143 |
+| 360d | 2025-11-12 | 100 | 326 | 3 | 58 | 5 | 245 |
+| last720d | 2024-11-17 | 100 | 412 | 3 | 71 | 8 | 590 |
 
 ## Release assets
 
@@ -95,7 +95,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/wakatime-cli). **3** are ✅ on the latest upstream release, **14** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/wakatime-cli). **3** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -111,4 +111,4 @@ Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:11:38Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:16:47Z._
