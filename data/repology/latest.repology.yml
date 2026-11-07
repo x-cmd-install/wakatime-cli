@@ -119,28 +119,6 @@
     - Apache-2.0
   categories:
     - dev-util
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: wakatime
-  binname: wakatime
-  visiblename: wakatime
-  version: 1.60.4
-  origversion: 1:1.60.4-1
-  status: outdated
-  summary: Command line interface used by all WakaTime text editor plugins
-  licenses:
-    - BSD
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: wakatime
-  binname: wakatime
-  visiblename: wakatime
-  version: 1.60.4
-  origversion: 1:1.60.4-1
-  status: outdated
-  summary: Command line interface used by all WakaTime text editor plugins
-  licenses:
-    - BSD
 - repo: msys2_clang64
   srcname: mingw-w64-wakatime
   binname: mingw-w64-clang-x86_64-wakatime
