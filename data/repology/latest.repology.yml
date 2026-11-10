@@ -1,3 +1,48 @@
+- repo: liguros_develop
+  srcname: dev-util/wakatime-cli
+  visiblename: dev-util/wakatime-cli
+  version: 1.27.0
+  origversion: null
+  status: legacy
+  summary: Command line interface to WakaTime used by all WakaTime plugins
+  maintainers:
+    - ezzieyguywuf@gmail.com
+  licenses:
+    - BSD
+    - MIT
+    - MPL-2.0
+    - BSD-2
+    - Apache-2.0
+  categories:
+    - dev-util
+- repo: liguros_develop
+  srcname: dev-util/wakatime-cli
+  visiblename: dev-util/wakatime-cli
+  version: 1.28.6
+  origversion: null
+  status: outdated
+  summary: Command line interface to WakaTime used by all WakaTime plugins
+  maintainers:
+    - ezzieyguywuf@gmail.com
+  licenses:
+    - BSD
+    - MIT
+    - MPL-2.0
+    - BSD-2
+    - Apache-2.0
+  categories:
+    - dev-util
+- repo: nix_stable_26_05
+  srcname: wakatime-cli
+  visiblename: wakatime-cli
+  version: 2.14.5
+  origversion: null
+  status: outdated
+  summary: WakaTime command line interface
+  maintainers:
+    - sigmanificient@gmail.com
+  licenses:
+    - BSD-3-Clause
 - repo: aur
   srcname: wakatime
   binname: wakatime
@@ -85,47 +130,13 @@
     - Apache-2.0
   categories:
     - dev-util
-- repo: liguros_develop
-  srcname: dev-util/wakatime-cli
-  visiblename: dev-util/wakatime-cli
-  version: 1.27.0
-  origversion: null
-  status: legacy
-  summary: Command line interface to WakaTime used by all WakaTime plugins
-  maintainers:
-    - ezzieyguywuf@gmail.com
-  licenses:
-    - BSD
-    - MIT
-    - MPL-2.0
-    - BSD-2
-    - Apache-2.0
-  categories:
-    - dev-util
-- repo: liguros_develop
-  srcname: dev-util/wakatime-cli
-  visiblename: dev-util/wakatime-cli
-  version: 1.28.6
-  origversion: null
-  status: outdated
-  summary: Command line interface to WakaTime used by all WakaTime plugins
-  maintainers:
-    - ezzieyguywuf@gmail.com
-  licenses:
-    - BSD
-    - MIT
-    - MPL-2.0
-    - BSD-2
-    - Apache-2.0
-  categories:
-    - dev-util
 - repo: msys2_clang64
   srcname: mingw-w64-wakatime
   binname: mingw-w64-clang-x86_64-wakatime
   visiblename: mingw-w64-clang-x86_64-wakatime
-  version: 2.28.0
-  origversion: 2.28.0-1
-  status: outdated
+  version: 2.28.4
+  origversion: 2.28.4-1
+  status: newest
   summary: Command line interface used by all WakaTime text editor plugins (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -133,9 +144,9 @@
   srcname: mingw-w64-wakatime
   binname: mingw-w64-clang-aarch64-wakatime
   visiblename: mingw-w64-clang-aarch64-wakatime
-  version: 2.28.0
-  origversion: 2.28.0-1
-  status: outdated
+  version: 2.28.4
+  origversion: 2.28.4-1
+  status: newest
   summary: Command line interface used by all WakaTime text editor plugins (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -143,9 +154,9 @@
   srcname: mingw-w64-wakatime
   binname: mingw-w64-ucrt-x86_64-wakatime
   visiblename: mingw-w64-ucrt-x86_64-wakatime
-  version: 2.28.0
-  origversion: 2.28.0-1
-  status: outdated
+  version: 2.28.4
+  origversion: 2.28.4-1
+  status: newest
   summary: Command line interface used by all WakaTime text editor plugins (mingw-w64)
   licenses:
     - spdx:BSD-3-Clause
@@ -175,17 +186,6 @@
   srcname: wakatime-cli
   visiblename: wakatime-cli
   version: 1.130.1
-  origversion: null
-  status: outdated
-  summary: WakaTime command line interface
-  maintainers:
-    - sigmanificient@gmail.com
-  licenses:
-    - BSD-3-Clause
-- repo: nix_stable_26_05
-  srcname: wakatime-cli
-  visiblename: wakatime-cli
-  version: 2.14.5
   origversion: null
   status: outdated
   summary: WakaTime command line interface
