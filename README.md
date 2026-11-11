@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 467 · **Forks**: 95 · **Open issues**: 412 · **Contributors**: 19
+- **Stars**: 467 · **Forks**: 95 · **Open issues**: 413 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 850 · **Merged PRs**: 1105 · **Open PRs**: 4 · **Closed issues**: 398 · **Open issues**: 14 · **Commits**: 1936
+- **Releases**: 850 · **Merged PRs**: 1105 · **Open PRs**: 5 · **Closed issues**: 398 · **Open issues**: 15 · **Commits**: 1936
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 26 | 27 | 3 | 5 | 5 | 21 |
-| last60d | 2026-09-11 | 59 | 69 | 4 | 24 | 6 | 62 |
-| 90d | 2026-08-12 | 66 | 78 | 4 | 28 | 6 | 72 |
-| last180d | 2026-05-14 | 100 | 181 | 4 | 39 | 7 | 138 |
-| 360d | 2025-11-15 | 100 | 326 | 4 | 58 | 7 | 245 |
-| last720d | 2024-11-20 | 100 | 409 | 4 | 70 | 10 | 586 |
+| 30d | 2026-10-12 | 26 | 25 | 4 | 5 | 6 | 21 |
+| last60d | 2026-09-12 | 59 | 69 | 5 | 24 | 7 | 62 |
+| 90d | 2026-08-13 | 66 | 78 | 5 | 28 | 7 | 72 |
+| last180d | 2026-05-15 | 100 | 179 | 5 | 39 | 8 | 138 |
+| 360d | 2025-11-16 | 100 | 326 | 5 | 58 | 8 | 245 |
+| last720d | 2024-11-21 | 100 | 405 | 5 | 69 | 11 | 586 |
 
 ## Release assets
 
@@ -95,7 +95,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **18** distros on [repology.org](https://repology.org/project/wakatime-cli). **6** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/wakatime-cli). **7** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -111,4 +111,4 @@ Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:47:35Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:22:49Z._
