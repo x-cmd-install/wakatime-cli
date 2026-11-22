@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 468 · **Forks**: 100 · **Open issues**: 413 · **Contributors**: 19
+- **Stars**: 468 · **Forks**: 99 · **Open issues**: 413 · **Contributors**: 19
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 8 | 8 | 7 | 2 | 4 | 6 |
-| last60d | 2026-09-22 | 50 | 60 | 9 | 20 | 7 | 58 |
-| 90d | 2026-08-23 | 66 | 78 | 9 | 28 | 7 | 72 |
-| last180d | 2026-05-25 | 100 | 163 | 9 | 36 | 8 | 131 |
-| 360d | 2025-11-26 | 100 | 326 | 9 | 58 | 8 | 245 |
-| last720d | 2024-12-01 | 100 | 403 | 9 | 69 | 11 | 578 |
+| 30d | 2026-10-23 | 7 | 5 | 7 | 2 | 3 | 3 |
+| last60d | 2026-09-23 | 50 | 57 | 9 | 20 | 7 | 43 |
+| 90d | 2026-08-24 | 66 | 78 | 9 | 28 | 7 | 68 |
+| last180d | 2026-05-26 | 100 | 160 | 9 | 36 | 8 | 123 |
+| 360d | 2025-11-27 | 100 | 326 | 9 | 58 | 8 | 239 |
+| last720d | 2024-12-02 | 100 | 403 | 9 | 69 | 11 | 578 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:53:55Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:59:20Z._
