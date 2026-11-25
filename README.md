@@ -26,13 +26,13 @@ Total: **100,080** lines of code across **867** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.4 / 10**
+Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 468 · **Forks**: 99 · **Open issues**: 413 · **Contributors**: 19
+- **Stars**: 468 · **Forks**: 100 · **Open issues**: 413 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 850 · **Merged PRs**: 1105 · **Open PRs**: 9 · **Closed issues**: 398 · **Open issues**: 15 · **Commits**: 1936
+- **Releases**: 850 · **Merged PRs**: 1105 · **Open PRs**: 10 · **Closed issues**: 398 · **Open issues**: 15 · **Commits**: 1936
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 4 | 5 | 7 | 2 | 3 | 3 |
-| last60d | 2026-09-25 | 45 | 47 | 9 | 17 | 7 | 43 |
-| 90d | 2026-08-26 | 66 | 78 | 9 | 28 | 7 | 68 |
-| last180d | 2026-05-28 | 100 | 153 | 9 | 36 | 8 | 123 |
-| 360d | 2025-11-29 | 100 | 326 | 9 | 58 | 8 | 239 |
-| last720d | 2024-12-04 | 100 | 402 | 9 | 69 | 11 | 578 |
+| 30d | 2026-10-26 | 4 | 5 | 8 | 1 | 3 | 3 |
+| last60d | 2026-09-26 | 38 | 43 | 10 | 16 | 7 | 43 |
+| 90d | 2026-08-27 | 66 | 74 | 10 | 28 | 7 | 68 |
+| last180d | 2026-05-29 | 100 | 152 | 10 | 36 | 8 | 123 |
+| 360d | 2025-11-30 | 100 | 326 | 10 | 58 | 8 | 239 |
+| last720d | 2024-12-05 | 100 | 400 | 10 | 69 | 11 | 578 |
 
 ## Release assets
 
@@ -93,15 +93,6 @@ Lowest-scoring checks:
 | [wakatime-cli-windows-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.28.4/wakatime-cli-windows-amd64.zip) | 8.2 MiB | `native/win/x64` |
 | [wakatime-cli-windows-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.28.4/wakatime-cli-windows-arm64.zip) | 7.5 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **18** distros on [repology.org](https://repology.org/project/wakatime-cli). **8** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.28.4` | ✅ latest |
-| Nix unstable | `2.28.4` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wakatime-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -111,4 +102,4 @@ Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:04:42Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:28:53Z._

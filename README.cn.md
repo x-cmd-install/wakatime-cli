@@ -26,13 +26,13 @@ x install wakatime-cli
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.4 / 10**
+总评分: **4.3 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install wakatime-cli
 
 ## 流行度
 
-- **Star**: 468 · **Fork**: 99 · **开放 issue**: 413 · **贡献者**: 19
+- **Star**: 468 · **Fork**: 100 · **开放 issue**: 413 · **贡献者**: 19
 
 ## 累计统计
 
-- **发布数**: 850 · **已合并 PR**: 1105 · **开放 PR**: 9 · **已关闭 issue**: 398 · **开放 issue**: 15 · **提交数**: 1936
+- **发布数**: 850 · **已合并 PR**: 1105 · **开放 PR**: 10 · **已关闭 issue**: 398 · **开放 issue**: 15 · **提交数**: 1936
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 4 | 5 | 7 | 2 | 3 | 3 |
-| last60d | 2026-09-25 | 45 | 47 | 9 | 17 | 7 | 43 |
-| 90d | 2026-08-26 | 66 | 78 | 9 | 28 | 7 | 68 |
-| last180d | 2026-05-28 | 100 | 153 | 9 | 36 | 8 | 123 |
-| 360d | 2025-11-29 | 100 | 326 | 9 | 58 | 8 | 239 |
-| last720d | 2024-12-04 | 100 | 402 | 9 | 69 | 11 | 578 |
+| 30d | 2026-10-26 | 4 | 5 | 8 | 1 | 3 | 3 |
+| last60d | 2026-09-26 | 38 | 43 | 10 | 16 | 7 | 43 |
+| 90d | 2026-08-27 | 66 | 74 | 10 | 28 | 7 | 68 |
+| last180d | 2026-05-29 | 100 | 152 | 10 | 36 | 8 | 123 |
+| 360d | 2025-11-30 | 100 | 326 | 10 | 58 | 8 | 239 |
+| last720d | 2024-12-05 | 100 | 400 | 10 | 69 | 11 | 578 |
 
 ## Release 资产
 
@@ -93,15 +93,6 @@ x install wakatime-cli
 | [wakatime-cli-windows-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.28.4/wakatime-cli-windows-amd64.zip) | 8.2 MiB | `native/win/x64` |
 | [wakatime-cli-windows-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.28.4/wakatime-cli-windows-arm64.zip) | 7.5 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/wakatime-cli) 上共有 **18** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `2.28.4` | ✅ latest |
-| Nix unstable | `2.28.4` | ✅ latest |
-
 ## 改进这些数据
 
 wakatime-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `wakatime-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -111,4 +102,4 @@ wakatime-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:04:46Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:28:55Z._
