@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 468 · **Forks**: 100 · **Open issues**: 413 · **Contributors**: 19
+- **Stars**: 468 · **Forks**: 101 · **Open issues**: 414 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 850 · **Merged PRs**: 1105 · **Open PRs**: 10 · **Closed issues**: 398 · **Open issues**: 15 · **Commits**: 1936
+- **Releases**: 850 · **Merged PRs**: 1105 · **Open PRs**: 11 · **Closed issues**: 398 · **Open issues**: 16 · **Commits**: 1936
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 4 | 5 | 8 | 1 | 3 | 3 |
-| last60d | 2026-09-26 | 38 | 43 | 10 | 16 | 7 | 43 |
-| 90d | 2026-08-27 | 66 | 74 | 10 | 28 | 7 | 68 |
-| last180d | 2026-05-29 | 100 | 152 | 10 | 36 | 8 | 123 |
-| 360d | 2025-11-30 | 100 | 326 | 10 | 58 | 8 | 239 |
-| last720d | 2024-12-05 | 100 | 400 | 10 | 69 | 11 | 578 |
+| 30d | 2026-10-27 | 4 | 4 | 9 | 1 | 4 | 3 |
+| last60d | 2026-09-27 | 35 | 43 | 11 | 16 | 8 | 43 |
+| 90d | 2026-08-28 | 62 | 74 | 11 | 28 | 8 | 68 |
+| last180d | 2026-05-30 | 100 | 152 | 11 | 36 | 9 | 123 |
+| 360d | 2025-12-01 | 100 | 326 | 11 | 58 | 9 | 239 |
+| last720d | 2024-12-06 | 100 | 400 | 11 | 69 | 12 | 574 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:28:53Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:06:38Z._
