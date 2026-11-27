@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 468 · **Forks**: 101 · **Open issues**: 414 · **Contributors**: 19
+- **Stars**: 469 · **Forks**: 101 · **Open issues**: 414 · **Contributors**: 19
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 4 | 4 | 9 | 1 | 4 | 3 |
-| last60d | 2026-09-27 | 35 | 43 | 11 | 16 | 8 | 43 |
-| 90d | 2026-08-28 | 62 | 74 | 11 | 28 | 8 | 68 |
-| last180d | 2026-05-30 | 100 | 152 | 11 | 36 | 9 | 123 |
-| 360d | 2025-12-01 | 100 | 326 | 11 | 58 | 9 | 239 |
-| last720d | 2024-12-06 | 100 | 400 | 11 | 69 | 12 | 574 |
+| 30d | 2026-10-28 | 3 | 4 | 9 | 1 | 4 | 3 |
+| last60d | 2026-09-28 | 35 | 42 | 11 | 15 | 8 | 43 |
+| 90d | 2026-08-29 | 62 | 74 | 11 | 28 | 8 | 68 |
+| last180d | 2026-05-31 | 100 | 150 | 11 | 36 | 9 | 123 |
+| 360d | 2025-12-02 | 100 | 326 | 11 | 58 | 9 | 239 |
+| last720d | 2024-12-07 | 100 | 400 | 11 | 69 | 12 | 574 |
 
 ## Release assets
 
@@ -93,6 +93,15 @@ Lowest-scoring checks:
 | [wakatime-cli-windows-amd64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.28.4/wakatime-cli-windows-amd64.zip) | 8.2 MiB | `native/win/x64` |
 | [wakatime-cli-windows-arm64.zip](https://github.com/wakatime/wakatime-cli/releases/download/v2.28.4/wakatime-cli-windows-arm64.zip) | 7.5 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **18** distros on [repology.org](https://repology.org/project/wakatime-cli). **8** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.28.4` | ✅ latest |
+| Nix unstable | `2.28.4` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wakatime-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -102,4 +111,4 @@ Install metadata for wakatime-cli lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:06:38Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:39:46Z._
